@@ -52,14 +52,25 @@
 ---
 
 ### 📊 My Stats :
-     
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elvis-Aguilar&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Elvis-Aguilar Stats"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elvis-Aguilar&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Elvis-Aguilar Top Langs"/>
+</a>
+
+
+---
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elvis-Aguilar&theme=vue-dark&border_radius=5.1&locale=es)](https://git.io/streak-stats)
      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvis-Aguilar&show_icons=true&theme=vue-dark)
-     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis-Aguilar&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)     
+  
      
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvis-Aguilar&show_icons=true&theme=vue-dark)
+     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis-Aguilar&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)   
 **Elvis-Aguilar/Elvis-Aguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
