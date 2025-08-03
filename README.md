@@ -1,17 +1,15 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-    <h1 align="center">Hola 👋, Soy Elvis Aguilar</h1>
-    <h3 align="center">Apasionado al desarrollo web, programador backend con orientación en frontend</h3>
+    <h1 align="center">Hi 👋, I'm Elvis Aguilar</h1>
+    <h3 align="center">Web development enthusiast, backend developer with a focus on frontend technologies.</h3>
 </div>
 
-### 👨‍💻 About Me :
-- 😄 Soy de Totonicapán, Guatemala
-
-- 📝 Estudiante de Ingenieria en Sistemas CUNOC
-
-- 📫 email **elvisaguilar201930304@cunoc.edu.gt**
-
-- 👯 cuenta secundaria **https://github.com/ElvisAgui**
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elvis-Aguilar&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Elvis-Aguilar Stats"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elvis-Aguilar&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Elvis-Aguilar Top Langs"/>
+</a>
 
 <div align="left">
     <h3>🕵 Languages:</h3>
@@ -46,41 +44,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="60" height="60"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Github" **alt="Github" width="60" height="60"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" **alt="bash" width="60" height="60"/>
     <div>
  <div>
      
----
-
-### 📊 My Stats :
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elvis-Aguilar&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Elvis-Aguilar Stats"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elvis-Aguilar&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Elvis-Aguilar Top Langs"/>
-</a>
-
-
----
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elvis-Aguilar&theme=vue-dark&border_radius=5.1&locale=es)](https://git.io/streak-stats)
-     
-  
-     
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvis-Aguilar&show_icons=true&theme=vue-dark)
-     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis-Aguilar&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)   
-**Elvis-Aguilar/Elvis-Aguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
